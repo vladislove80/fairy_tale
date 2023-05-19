@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:fairy_tale/widget/plot_option/model/fairy_tale_model.dart';
+import 'package:fairy_tale/fairytale/model/fairy_tale_model.dart';
 
 abstract class PlotOptionsState extends Equatable {
   const PlotOptionsState();

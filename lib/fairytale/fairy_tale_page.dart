@@ -1,7 +1,7 @@
-import 'package:fairy_tale/animated_sliver_app_bar.dart';
+import 'package:fairy_tale/fairytale/animated_sliver_app_bar.dart';
 import 'package:fairy_tale/theme/app_them.dart';
-import 'package:fairy_tale/widget/plot_option/bloc/plot_options_cubit.dart';
-import 'package:fairy_tale/widget/plot_option/bloc/plot_options_state.dart';
+import 'package:fairy_tale/fairytale/bloc/plot_options_cubit.dart';
+import 'package:fairy_tale/fairytale/bloc/plot_options_state.dart';
 import 'package:fairy_tale/widget/plot_option/plot_options_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

@@ -1,4 +1,4 @@
-import 'package:fairy_tale/fairy_tale_page.dart';
+import 'package:fairy_tale/fairytale/fairy_tale_page.dart';
 import 'package:fairy_tale/theme/app_them.dart';
 import 'package:flutter/material.dart';
 

@@ -1,6 +1,6 @@
 import 'package:fairy_tale/theme/icon_assets.dart';
-import 'package:fairy_tale/widget/plot_option/bloc/plot_options_state.dart';
-import 'package:fairy_tale/widget/plot_option/model/fairy_tale_model.dart';
+import 'package:fairy_tale/fairytale/bloc/plot_options_state.dart';
+import 'package:fairy_tale/fairytale/model/fairy_tale_model.dart';
 import 'package:fairy_tale/widget/plot_option/model/plot_options.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
