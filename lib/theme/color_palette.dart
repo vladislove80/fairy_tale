@@ -1,0 +1,3 @@
+class ColorPalette {
+  ColorPalette._();
+}

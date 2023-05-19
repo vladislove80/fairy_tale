@@ -1,0 +1,70 @@
+name: fairy_tale
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.2
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Tilda Sans VF
+      fonts:
+        - asset: assets/fonts/TildaSansVF/TildaSans-VF.ttf
+          weight: 400
+
+    - family: Vollkorn
+      fonts:
+        - asset: assets/fonts/Vollkorn/Vollkorn-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Vollkorn/Vollkorn-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Vollkorn/Vollkorn-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Vollkorn/Vollkorn-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Vollkorn/Vollkorn-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Vollkorn/Vollkorn-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Vollkorn/Vollkorn-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Vollkorn/Vollkorn-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Vollkorn/Vollkorn-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Vollkorn/Vollkorn-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/Vollkorn/Vollkorn-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Vollkorn/Vollkorn-BlackItalic.ttf
+          weight: 900
+          style: italic
